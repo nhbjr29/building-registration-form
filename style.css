@@ -1,0 +1,5 @@
+body{
+    width:100%; /*the body element will span the full width of its parent element*/
+    height:100vh;/*height will be equal to 100% of the viewport height*/
+    background-color:rgb(200, 231, 200);/*just sets the background color*/
+}
