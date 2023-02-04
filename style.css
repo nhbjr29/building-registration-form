@@ -2,4 +2,9 @@ body{
     width:100%; /*the body element will span the full width of its parent element*/
     height:100vh;/*height will be equal to 100% of the viewport height*/
     background-color:rgb(200, 231, 200);/*just sets the background color*/
+    margin:0;/*set the margin for all four sie of a body element to 0*/
+}
+label{
+    display:block;
+    margin: 0.5rem 0;
 }
